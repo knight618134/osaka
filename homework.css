@@ -1,0 +1,29 @@
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  margin: 10px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  padding: 10px 0;
+  margin: 30px 0;
+  background-color: beige;
+}
+.header div {
+  margin: auto;
+  text-align: center;
+}
+.header h1 {
+  padding: 5px 0;
+}
+.header h5 {
+  padding: 5px 0;
+}
